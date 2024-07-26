@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ModuloCDR
-- 👀 I’m interested in programming and learning all computer science to a full extent
+- 👋 Hi, I’m @HarnekB_1104
+- 👀 I’m an up and coming computer enthusiast!
 - 🌱 I’m currently learning all about programming!
-- 💞️ I’m looking to collaborate on, not sure yet!
-- 📫 How to reach me --> Twitter: @TheSneakySpy04 - Instagram: sneakyspy04
+- 📫 How to reach me --> LinkedIn: https://www.linkedin.com/in/harnek-bindra-667455245/ - Instagram: harnekb_04
 
 <!---
 ModuloCDR/ModuloCDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
